@@ -3647,7 +3647,21 @@
         "Static",
         "Responsive"
       ]
-    }
-
+    },
+	{
+	  "name": "Farlens",  // will be displayed under the screenshot
+	  "thumb": "farlens/farlens.png", // path to the image (omit the projects/ prefix)
+	  "desc": "Farlens is the fastest and easiest way to track and monitor your vehicles in real time", // One or two sentences
+	  "url": "https://farlens.com", // url to your app
+	  "info": "https://blog.farlens.com", // url to app announcement or background
+	  "submitter": "mohan-klarsys", // your github username
+	  "submissionDate": "2012-05-03", // current date in ISO format
+	  "tags": [
+	    "Production", // choose your app seriousness level (for plunks or fiddles use "Toy")
+	    "Tracking", "Monitor", "Security", "Camera", "Location", // choose your app type
+	    "Live", "History", "Record", "AppCache", "Angular-material", // features and technologies
+	    "No jQuery", // do you use jQuery?
+	  ]
+	}
   ]
 }
